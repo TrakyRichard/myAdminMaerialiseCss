@@ -1,0 +1,34 @@
+.btnDetails{
+    height: 30px!important;
+    width: 75px!important;
+}
+
+.closeEnd{
+    position: absolute;
+    right: 0;
+    padding-right: 5px;
+}
+
+.textareaHeight{
+    height: 500px!important;
+}
+
+.bgCard{
+    background: url('https://tse3.mm.bing.net/th?id=OIP.TxBUHYCNfU-g3tUMaKXN7QHaEK&pid=Api&P=0&w=312&h=176');
+}
+
+.checkCross{
+position: absolute;
+padding-right: 20px;
+right: 0;
+}
+
+.checkCross i{
+    padding-right: 10px;
+}
+.tdComment{
+    display: flex;
+}
+.tdComment h6{
+    margin-right: 3px;
+}
