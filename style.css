@@ -32,3 +32,14 @@ right: 0;
 .tdComment h6{
     margin-right: 3px;
 }
+.user th{
+    height: 50px;
+}
+
+.user th:nth-child(1){
+    height: 100px;
+}
+
+.index th{
+    height: 50px;
+}
